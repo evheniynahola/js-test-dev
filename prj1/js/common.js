@@ -46,9 +46,9 @@
 //console.log('2' == 2); //true
 //console.log('2' === 2); //false
 
-// let checked = true, nonchecked = false;
+let checked = true, nonchecked = false;
 
-// console.log(checked && !nonchecked);
+console.log(checked && !nonchecked);
 
 // Операторы end
 
